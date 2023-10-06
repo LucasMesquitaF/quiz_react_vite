@@ -11,7 +11,7 @@ npm run dev
 ```
 Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo em seu navegador.
 
-Ou ainda, acesse no link: [https://lucasmesquitaf.github.io/site_viagens_react/](https://lucasmesquitaf.github.io/site_viagens_react/).
+Ou ainda, acesse no link: [https://lucasmesquitaf.github.io/quiz_react_vite/](https://lucasmesquitaf.github.io/quiz_react_vite/).
 
 ## Telas
 
