@@ -1,8 +1,26 @@
-# React + Vite
+# Quiz com react+vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um quiz sobre programação desenvolvida como treino de front-end com react.js com base no vídeo [https://youtu.be/HlkbeikH8cs?si=6WWjY22OHO5OouOr](https://youtu.be/HlkbeikH8cs?si=6WWjY22OHO5OouOr).
 
-Currently, two official plugins are available:
+## Utilização
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Após clonar o repositório, no diretório do projeto:
+
+```javascript
+npm run dev
+```
+Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo em seu navegador.
+
+Ou ainda, acesse no link: [https://lucasmesquitaf.github.io/site_viagens_react/](https://lucasmesquitaf.github.io/site_viagens_react/).
+
+## Telas
+
+Alguns exemplos das telas da aplicação:
+
+<img src="/assets/img/arquivo.gif">
+<img src="/assets/img/arquivo.gif">
+<img src="/assets/img/arquivo.gif">
+
+## Contribuições
+
+Pull requests são bem vindas. Para maiores mudanças, por favor abra uma issue para discutirmos a possível alteração.
