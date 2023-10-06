@@ -17,7 +17,7 @@ Ou ainda, acesse no link: [https://lucasmesquitaf.github.io/quiz_react_vite/](ht
 
 Alguns exemplos das telas da aplicação:
 
-<img src="/assets/img/arquivo.gif">
+<img src="/assets/screenshots/quiz.PNG">
 <img src="/assets/img/arquivo.gif">
 <img src="/assets/img/arquivo.gif">
 
